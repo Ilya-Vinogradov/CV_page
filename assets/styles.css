@@ -1,0 +1,75 @@
+body{
+    background-color:rgb(180, 203, 248);
+    font-family: 'Courier New', Courier, monospace;
+}
+.header {
+    text-align: center;
+}
+
+.avatar{
+    width: 300px;
+}
+
+.header__title {
+    font-size: 25px;
+}
+.sub__title {
+   color:  rgb(1, 37, 37);
+}
+main{
+    border: 5px solid rgb(0, 0, 0);
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+.skills ol{
+    list-style: none;
+}
+.separator {
+    width: 50%;
+    height: 3px;
+    background-color: #107e7c;
+}
+.hobbies ul{
+    list-style: none;
+}
+.ed_table{
+    border-collapse: collapse;
+    width: 100%;
+    padding: 10px 10px;
+}
+
+.ed_table th, .ed_table td{
+    border: 2px solid #000;
+    
+}
+.quote{
+    font-size: 45px;
+}
+.form{
+    width: 600px;
+    margin: 0 auto ;
+}
+.form-control{
+    width: 100%;
+}
+
+.control-text{
+    width: 70%;
+}
+
+.form-submit {
+    display: block;
+    margin: 0 auto ;
+}
+footer{
+    height: 100px;
+    text-align: center;
+    background-color: #8c8888;
+}
+.contacts-link{
+    text-decoration: none;
+    color: #000;
+}
+
+
